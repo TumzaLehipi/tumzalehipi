@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently on Net File Explorer in JavaScript using React.
 - 🌱 I’m currently learning Flutter.
-- - 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tumzalehipi&show_icons=true&theme=radical"/>
