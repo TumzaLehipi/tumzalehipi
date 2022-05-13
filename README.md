@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently on Net File Explorer in JavaScript using React.
+- 🌱 I’m currently learning Flutter.
+- - 😄 Pronouns: He/Him
+
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tumzalehipi&show_icons=true&theme=radical"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumzalehipi&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
